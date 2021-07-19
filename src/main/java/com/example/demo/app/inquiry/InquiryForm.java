@@ -31,10 +31,10 @@ public class InquiryForm {
 	public void setEmail(String email) {
 		this.email = email;
 	}
-	public String getContent() {
+	public String getContents() {
 		return contents;
 	}
-	public void setContent(String contents) {
+	public void setContents(String contents) {
 		this.contents = contents;
 	}
 
